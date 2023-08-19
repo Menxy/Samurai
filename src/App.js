@@ -30,7 +30,7 @@ function App() {
                             <div>Web-site: https:\\gorgonzola.edu</div>
                         </div>
                     </div>
-                    <form className={'form'} action={"get"}>
+                    <form className={'form'} action={'get'}>
                         <div className={'my_posts'}>My posts</div>
                         <input className={'form_input'} type={'text'} placeholder={'your news...'}/>
                         <button className={'send'}>Send</button>
