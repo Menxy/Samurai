@@ -38,7 +38,7 @@ function App() {
                     <div className={"post_container"}>
                         <div className="post">
                             <a href={'/'}><img src="https://www.vhv.rs/dpng/d/443-4431349_yellow-circle-png-transparent-png-download.png" alt="sun"/></a>
-                            <span className={'post_text'}>Hey, why noone loves me?</span>
+                            <span className={'post_text'}>Hey, I'm back!</span>
                         </div>
                         <div className="post">
                             <a href={'/'}><img src="https://www.vhv.rs/dpng/d/443-4431349_yellow-circle-png-transparent-png-download.png" alt="sun"/></a>
