@@ -1,0 +1,15 @@
+.card {
+    margin-top: 20px;
+    display: flex;
+}
+.my_info {
+    padding-left: 40px;
+    display: flex;
+    flex-direction: column;
+    color: rgba(23, 23, 23, 0.61);
+    font-size: 1.5em;
+}
+.card_name {
+    font-size: 1.5em;
+    padding-bottom: 0.5em;
+}

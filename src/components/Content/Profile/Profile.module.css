@@ -1,0 +1,8 @@
+
+.stuff {
+    flex: 0 1 85%;
+}
+.stuff>img {
+    width: 100%;
+    height: 200px;
+}

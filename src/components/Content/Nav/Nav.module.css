@@ -1,0 +1,16 @@
+.nav {
+    flex: 0 0 15%;
+    margin-right: 20px;
+    padding: 20px;
+    background-color: #1856af;
+    display: flex;
+    flex-direction: column;
+}
+.nav_element a {
+    color: ghostwhite;
+    text-decoration: none;
+    font-size: 2em;
+}
+.settings {
+    padding: 2em 0 3em 0;
+}
